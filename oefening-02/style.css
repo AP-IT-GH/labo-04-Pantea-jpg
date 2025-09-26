@@ -1,0 +1,19 @@
+body{
+    font-family: arial;
+    margin: 10px 10px 10px 10px;
+}
+h1{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+ol{
+    all: revert;
+} 
+
+ol li:nth-child(even){
+    color: blue;
+}
+ol li:nth-child(odd){
+    background-color: lightgray;
+}

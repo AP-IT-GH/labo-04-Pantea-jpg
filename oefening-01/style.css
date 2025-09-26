@@ -1,0 +1,33 @@
+h1{
+    font-weight: bolder;
+    font-size:20px;
+}
+
+
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #333;
+    background-color: rgb(86, 86, 218);
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#button01:hover{
+    box-shadow: 2px 2px 2px 2px grey;
+    color: pink;
+    background-color: grey;
+    border: 1px solid grey;
+}
+
+#button02:active{
+    transform: translateY(2px);
+    color: purple;
+}
+
+#button03:focus{
+    outline: 3px solid pink;
+}
+
