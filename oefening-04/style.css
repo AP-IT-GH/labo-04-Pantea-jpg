@@ -1,0 +1,39 @@
+table {
+  font-family: arial;
+}
+#top-heading {
+  text-align: center;
+  vertical-align: middle;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+th {
+  padding: 15px 15px 15px 15px;
+  font-weight: bold;
+}
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+.red {
+  background-color: red;
+  color: white;
+}
+.purple {
+  background-color: purple;
+  color: white;
+}
+.blue {
+  background-color: blue;
+  color: white;
+}
+#pink {
+  background-color: pink;
+  color: black;
+}
