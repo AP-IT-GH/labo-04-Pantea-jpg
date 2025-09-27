@@ -1,0 +1,31 @@
+
+table,td,th {
+  font-family: arial;
+  border:2px solid black;
+  border-collapse: collapse;
+}
+th:first-child{
+    border-right: none;
+}
+
+#top-head{
+  text-align: center;
+  vertical-align: middle;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+
+th {
+  padding: 10px 10px 10px 10px;
+  font-weight: bold;
+}
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+.black {
+     background-color: black;
+  color: white;
+}
